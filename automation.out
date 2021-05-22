@@ -1,0 +1,17 @@
+2021-05-22 19:05:813 INFO  ServiceHooks:45 - Test case 1 : Check response on enter a word/Sentence in the search text box is pass
+2021-05-22 19:05:438 INFO  ServiceHooks:45 - Test case 1 : Check response on enter a word/Sentence in the search text box is pass
+2021-05-22 19:05:596 INFO  ServiceHooks:45 - Test case 2 : Check response on press enter from the text box is pass
+2021-05-22 19:05:258 INFO  ServiceHooks:45 - Test case 3 : Check response on entering max length of search keyword. is pass
+2021-05-22 19:05:544 INFO  ServiceHooks:45 - Test case 4 : Check response on entering invalid value in the search field is pass
+2021-05-22 19:05:742 INFO  ServiceHooks:45 - Test case 4 : Check response on entering invalid value in the search field is pass
+2021-05-22 19:05:658 INFO  ServiceHooks:45 - Test case 5 : Check response on entering invalid value in the search field is pass
+2021-05-22 19:05:276 INFO  ServiceHooks:45 - Test case 6 : Check response on auto-suggestion while enter a word is pass
+2021-05-22 19:05:165 INFO  ServiceHooks:45 - Test case 7 : Verify that the suggestion provided by Google are sorted by most popular/relevant suggestions is pass
+2021-05-22 19:05:228 INFO  ServiceHooks:45 - Test case 8 :Verify that user can make search corresponding to different categories is pass
+2021-05-22 19:05:385 INFO  ServiceHooks:45 - Test case 8 :Verify that user can make search corresponding to different categories is pass
+2021-05-22 19:05:08 INFO  ServiceHooks:45 - Test case 9 :Verify that misspelled keyword in google search text box is pass
+2021-05-22 19:05:473 INFO  ServiceHooks:45 - Test case 10 :Verify that multi word misspelled keywords is pass
+2021-05-22 19:05:150 INFO  ServiceHooks:45 - Test case 11 :Verify the performance of search check if the time taken to fetch the response is pass
+2021-05-22 19:05:14 INFO  ServiceHooks:45 - Test case 12 :Verify that total number of results fetched for a keyword is pass
+2021-05-22 19:05:452 INFO  ServiceHooks:45 - Test case 13 : Verify Google calculator service make any arithmetic request is pass
+2021-05-22 19:05:178 INFO  ServiceHooks:45 - Test case 14 :Verify from google result to navigate to home page and search something is pass

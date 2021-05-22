@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="183233" started-at="2021-05-22T13:55:19Z" finished-at="2021-05-22T13:58:23Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="TestRunner.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.Google.CucumberOptions.TestRunner@f8c1ddd]" name="feature" class="com.Google.CucumberOptions.TestRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="183233" started-at="2021-05-22T13:55:19Z" finished-at="2021-05-22T13:58:23Z">
+      <class name="com.Google.CucumberOptions.TestRunner">
+        <test-method status="PASS" signature="setupclass()[pri:0, instance:com.Google.CucumberOptions.TestRunner@f8c1ddd]" name="setupclass" is-config="true" duration-ms="245" started-at="2021-05-22T13:55:19Z" finished-at="2021-05-22T13:55:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupclass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.Google.CucumberOptions.TestRunner@f8c1ddd]" name="feature" duration-ms="182823" started-at="2021-05-22T13:55:20Z" description="Run cucumber features" data-provider="features" finished-at="2021-05-22T13:58:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Google Search functionality]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="teatdownclass()[pri:0, instance:com.Google.CucumberOptions.TestRunner@f8c1ddd]" name="teatdownclass" is-config="true" duration-ms="41" started-at="2021-05-22T13:58:23Z" finished-at="2021-05-22T13:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatdownclass -->
+      </class> <!-- com.Google.CucumberOptions.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
